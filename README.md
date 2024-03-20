@@ -74,7 +74,7 @@ While building the portfolio website, I encountered several technical challenges
 
 ## Next Iteration:
 
-For future iterations of the portfolio website, I envision incorporating additional features such as a blog section to share insights and experiences, integration with social media platforms for enhanced networking, and further optimization for accessibility and SEO.
+For future iterations of the portfolio website, I envision incorporating additional features such as a blog section to share insights and experiences, integration with social media platforms for enhanced networking, and further optimization for accessibility and SEO..
 
 ## Timeline:
 
